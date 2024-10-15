@@ -1,5 +1,5 @@
 # Trilha-Big-Data
-Olá sou Neuma Guimarãs e Lucena.
+Olá sou Neuma Guimarães de Lucena.
 Estou iniciando minha jornada na área de Programação,
-Jà fiz Pyton, PHP, e BIG DATA
+Jà fiz Python, PHP, e BIG DATA
 e estou desenvolvendo um Projeto.
