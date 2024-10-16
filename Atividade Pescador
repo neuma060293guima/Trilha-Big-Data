@@ -1,7 +1,7 @@
 #Atividade
 
 #Um pescador precisa pagar uma multa caso o peso dos peixes exceda 100 quilos.
-#Crie uma multa para calcular a multa, se aplicável.
+#Crie uma função para calcular a multa, se aplicável.
 
 
 def calcular_multa(peso_total):
