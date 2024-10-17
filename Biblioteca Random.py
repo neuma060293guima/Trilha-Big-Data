@@ -10,3 +10,7 @@ def doisnum_aleatorios(qtd,numero_minimo,numero_maximo):
         
 numeros=doisnum_aleatorios(20,1,1000)
 print(numeros)
+
+PS C:\Users\unidade.copacabana\Documents\BigDataSenac> & "C:/Program Files/Python311/python.exe" c:/Users/unidade.copacabana/Documents/BigDataSenac/Aula08_161020248.py
+587
+PS C:\Users\unidade.copacabana\Documents\BigDataSenac> 
